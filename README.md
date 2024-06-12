@@ -1,12 +1,4 @@
- <BrowserRouter>
-        <Routes>
-          <Route >
-            <Route path="" element={<Login />} />
-            <Route path="/sign-up" element={<SignUp />} />
-            <Route path="/manager" element={<Manager />} />
-            <Route path="/user" element={<User />} />
-            <Route path="/products" element={<AllProducts />} />
-            <Route path="/add-order" element={<AddOrder />} />
-          </Route>
-        </Routes>
- </BrowserRouter>
+buy-online
+The project was done in React and Node,
+Serves as a site for purchasing food products online.
+The site is useful for the store manager and customers.
