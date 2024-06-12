@@ -33,8 +33,8 @@ The application is understood to be used by the store manager as well as used by
 #### The all products
 ![App Screenshot](https://github.com/michal-saslow/buy_online/blob/main/Screenshots/AllProduct-user.png)
 #### Selecting products and adding them to the cart 
-![App Screenshot](https://github.com/michal-saslow/buy_online/blob/main/Screenshots/add-cart.png)
+![App Screenshot](https://github.com/michal-saslow/buy_online/blob/main/Screenshots/add_cart.png)
 #### User cart and Completion of an order
-![App Screenshot](https://github.com/michal-saslow/buy_online/blob/main/Screenshots/add_order.png)
+![App Screenshot](https://github.com/michal-saslow/buy_online/blob/main/Screenshots/add-order.png)
 #### User orders or for the admin all orders
 ![App Screenshot](https://github.com/michal-saslow/buy_online/blob/main/Screenshots/order-user.png)
